@@ -1,54 +1,72 @@
-# LangChain Core
+```txt
+# ============================
+# LangChain
+# ============================
 langchain
 langchain-core
 langchain-community
 
-# Google Gemini
+# ============================
+# LLM Providers
+# ============================
 langchain-google-genai
 google-genai
 
-# Environment Variables
-python-dotenv
-
-# Data Validation
-pydantic
-
-# UI
-streamlit
-
-# Vector Databases
-faiss-cpu
-chromadb
-
-# Embeddings
-sentence-transformers
-
-# Document Loaders
-pypdf
-pymupdf
-unstructured
-
-# Tokenization
-tiktoken
-
-# Data Handling
-pandas
-numpy
-
-# HTTP Requests
-requests
-
-# Web Scraping
-beautifulsoup4
-
-# OpenAI (for future use if needed)
 langchain-openai
 openai
 
-# Hugging Face
 langchain-huggingface
 transformers
 huggingface-hub
 
-# Utilities
+# ============================
+# Vector Databases
+# ============================
+chromadb
+faiss-cpu
+
+# ============================
+# Embedding Models
+# ============================
+sentence-transformers
+
+# ============================
+# Document Loaders
+# ============================
+pypdf
+pymupdf
+unstructured
+
+# ============================
+# Text Splitting & Tokenization
+# ============================
+tiktoken
+
+# ============================
+# Web Framework
+# ============================
+streamlit
+
+# ============================
+# Environment Variables
+# ============================
+python-dotenv
+
+# ============================
+# Data Validation
+# ============================
+pydantic
+
+# ============================
+# Data Handling
+# ============================
+numpy
+pandas
+
+# ============================
+# Networking & Utilities
+# ============================
+requests
+beautifulsoup4
 typing-extensions
+```
